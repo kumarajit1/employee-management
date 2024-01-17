@@ -1,0 +1,35 @@
+.main{
+    margin-top: 0px;
+}
+h2{
+    color: green;
+}
+span{
+    margin-top: 8px;
+    margin-left: 10px;
+}
+table{
+    border: 1px solid silver;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+.table_tr:nth-child(odd){
+    background-color: silver;
+}
+#addEmployee_Button{
+    color: green;
+    font-weight: 600;
+}
+#addEmployee_Button:hover{
+    background-color: green;
+    color: white;
+}
+button{
+    border-radius: 50px;
+    outline: 0px;
+    border: 0px;
+}
+button:hover{
+    cursor: pointer;
+}

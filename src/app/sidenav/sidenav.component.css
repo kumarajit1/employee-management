@@ -1,0 +1,13 @@
+a{
+    color: green;
+    font-weight: 600;
+}
+li{
+    list-style: none;
+}
+li:hover{
+    background-color: green;
+}
+.lstNav{
+    margin-top: 40px;
+}
